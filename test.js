@@ -3,7 +3,7 @@
 // 如果使用jsx，还必须安装babel插件以识别jsx文件
 // eslint的配置项在文件 .eslintrc中
 // 此处使用了eslint-config-next配置，参见.eslintrc中的extends字段
-// 具体内容参见eslint-config-next组件
+// 具体内容参见eslint-config-next文件夹
 
 const a = 3
 
