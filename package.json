@@ -1,0 +1,32 @@
+{
+  "name": "eslint",
+  "version": "1.0.0",
+  "description": "eslint usage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feiyuerenhai/eslint.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/feiyuerenhai/eslint/issues"
+  },
+  "homepage": "https://github.com/feiyuerenhai/eslint#readme",
+  "devDependencies": {
+    "@ali/eslint-config-next": "^1.x",
+    "@ali/eslint-plugin-next-md": "^0.1.2",
+    "babel-eslint": "^6.1.2",
+    "eslint-config-google": "^0.7.1",
+    "eslint-plugin-babel": "^3.3.0",
+    "eslint-plugin-import": "^1.12.0",
+    "eslint-plugin-react": "^5.2.2",
+    "husky": "0.x",
+    "react": "^15.x",
+    "react-addons-transition-group": "^15.x",
+    "react-dom": "^15.x"
+  }
+}

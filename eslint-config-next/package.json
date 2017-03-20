@@ -1,0 +1,33 @@
+{
+  "name": "@ali/eslint-config-next",
+  "version": "1.0.0",
+  "description": "Next components ESLint config, following our styleguide.",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "keywords": [
+    "eslint",
+    "config",
+    "next"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.alibaba-inc.com:next/eslint-config-next.git"
+  },
+  "publishConfig": {
+    "registry": "http://registry.npm.alibaba-inc.com"
+  },
+  "author": "jinliang.wjl@alibaba-inc.com",
+  "license": "ISC",
+  "peerDependencies": {
+    "@ali/eslint-plugin-next-md": "^0.1.1",
+    "babel-eslint": "^6.1.2",
+    "eslint": "^3.0.1",
+    "eslint-plugin-babel": "^3.3.0",
+    "eslint-plugin-import": "^1.12.0",
+    "eslint-plugin-react": "^5.2.2"
+  },
+  "_from": "@ali/eslint-config-next@1.0.0",
+  "_resolved": "http://registry.npm.alibaba-inc.com/@ali/eslint-config-next/download/@ali/eslint-config-next-1.0.0.tgz"
+}
